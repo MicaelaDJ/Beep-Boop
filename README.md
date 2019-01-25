@@ -1,6 +1,6 @@
 # _Beep Boop_
 
-#### _A simple tracker webpage, Created 1/25/19_
+#### _A fun number changing webpage, Created 1/25/19_
 
 #### By _**Micaela Jawor**_
 
@@ -36,7 +36,7 @@ Example: If a user inputs a **5**, the program should display a list of values: 
 
 ## GitHub Pages
 
-_To visit the live webpage, hosted by ghPages, <a href="https://micaeladj.github.io/Beep-Boop/">select this link</a> or visit micaeladj.github.io/Track-Suggester_
+_To visit the live webpage, hosted by ghPages, <a href="https://micaeladj.github.io/Beep-Boop/">select this link</a> or visit micaeladj.github.io/Beep-Boop_
 
 ## Known Bugs
 
