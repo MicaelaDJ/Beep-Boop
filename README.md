@@ -11,10 +11,14 @@ _A Track Suggester webpage (using HTML, CSS, JavaScript and jQuery) that asks fu
 
 ## Specifications
 
-| :Behavior | Example Input | Expected Output |
+| Behavior | Example Input | Expected Output |
+ --- --- ---
 | Program replaces 0 with "Beep!" | 0 | "Beep!" |
+ --- --- ---
 | Program replaces 1 with "Boop!" | 1 | "Boop!" |
+ --- --- ---
 | Program replaces any number divisible by 3 with "I'm sorry, Dave. I'm afraid I can't do that." | 3, 6, 9, etc. | "I'm sorry, Dave I'm afraid I can't do that." |
+ --- --- ---
 
 ## Setup/Installation Requirements
 
