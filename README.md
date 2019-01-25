@@ -1,13 +1,22 @@
-# _Track Suggester_
+# _Beep Boop_
 
-#### _A simple tracker webpage, Created 1/18/19, Updated 1/21/19_
+#### _A simple tracker webpage, Created 1/25/19_
 
 #### By _**Micaela Jawor**_
 
 ## Description
 
-_A Track Suggester webpage (using HTML, CSS, JavaScript and jQuery) that asks future students a series of questions about themselves and provides a track suggestion based on their answers
-._
+A webpage (using HTML, CSS, JavaScript and jQuery) that takes a number from a user and returns a range of numbers from 0 to the user inputted number with the following exceptions:
+
+ - Numbers that contain a 0 are replaced (all digits) with *"Beep!"*
+ - Numbers that contain a 1 are replaced (all digits) with *"Boop!"*
+ - Numbers divisible by 3 are replaced with *"I'm sorry, Dave. I'm afraid I can't do that."*
+
+These exceptions are written from least to most important. The first exception should apply unless the second exception does, and the same with the second and third. So, for example, in your finished program the number 10 should be replaced with *"Boop!"*, and the number 30 should be replaced with *"I'm sorry, Dave. I'm afraid I can't do that."*
+
+Also a user should be able to enter a new number and see new results over and over again.
+
+Example: If a user inputs a **5**, the program should display a list of values: **"Beep!", "Boop!", 2, "I'm Sorry...", 4, 5**
 
 ## Specifications
 
