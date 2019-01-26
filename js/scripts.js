@@ -4,11 +4,11 @@ var beepBoop = function(userInput){
   for (var index = 0; index <= userInput; index++) {
     var inputString = (index).toString();
     if (index % 3 === 0 && index != 0) {
-      results.push("I'm sorry, Dave. I'm afraid I can't do that.");
+      results.push("\"I'm sorry, Dave. I'm afraid I can't do that.\"");
     } else if (inputString.includes("1")) {
-      results.push("Boop!");
+      results.push("\"Boop!\"");
     } else if (inputString.includes("0")) {
-      results.push("Beep!");
+      results.push("\"Beep!\"");
     } else {
       results.push(index + ".");
     }
