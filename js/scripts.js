@@ -1,4 +1,4 @@
-//
+// Business Logic
 var beepBoop = function(userInput){
   var results = [];
   for (var index = 0; index <= userInput; index++) {
@@ -16,6 +16,7 @@ var beepBoop = function(userInput){
   return results
 }
 
+// User Interface Logic
 $(document).ready(function(){
   $("form#robotForm").submit(function(event){
     event.preventDefault();
@@ -23,10 +24,8 @@ $(document).ready(function(){
     var userInput = parseInt($("#inputNumber").val());
     var output = beepBoop(userInput);
     var stringOutput = output.join("");
-    // var outputName = stringOutput.replace(/Dave/g, name)
     $("#result").hide();
     $("#result").slideDown(1000);
     $("#result").text(stringOutput);
-    // $('html, body').animate({ scrollTop: 0 }, 'slow');
   });
 });
