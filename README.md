@@ -28,7 +28,7 @@ Example: If a user inputs a **5**, the program should display a list of values: 
 
 ## Setup/Installation Requirements
 
-* _Please visit Track Suggester repository <a href="https://github.com/MicaelaDJ/Beep-Boop">at this link</a>._
+* _Please visit the Beep Boop repository <a href="https://github.com/MicaelaDJ/Beep-Boop">at this link</a>._
 * _Clone repository or download to desktop_
 * _Open files using IDE (Atom or Visual Code Studio) to view code._
 * _Open index.html using your preferred web browser to preview webpage._

@@ -1,0 +1,40 @@
+body {
+  background: url("../img/robots-background.jpg")
+}
+
+h1 {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 20px;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: #42649b;
+  color: white;
+}
+
+#robotForm {
+  text-align: center;
+}
+
+#result {
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
+  font-size: 20px;
+  border: 5px solid #42649b;
+  background-color: white;
+}
+
+#inputNumber {
+  font-family: 'Quantico', sans-serif;
+  text-align: center;
+  font-size: 20px
+}
+
+#submit {
+  font-family: 'Audiowide', cursive;
+  color: white;
+}
+
+.btn-info {
+  background-color: #42649b;
+}
